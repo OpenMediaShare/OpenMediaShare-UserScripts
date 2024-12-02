@@ -1,0 +1,16 @@
+{
+  "name": "openmediashare-browser-userscripts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "WaterWolf5918",
+  "license": "MIT",
+  "dependencies": {
+    "oms-sharedtypes": "^1.2.3",
+    "typescript": "^5.7.2"
+  }
+}
