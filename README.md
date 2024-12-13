@@ -3,9 +3,9 @@ Userscripts to feed data from websites into OpenMediaShare.
 
 ## How to build
 ### Requirements 
-NodeJS 18+
-NPM
-Git
+* NodeJS 18+
+* NPM
+* Git
 ### Steps 
 Clone this repo onto your computer
 ```
