@@ -1,6 +1,8 @@
 {
     "compilerOptions": {
         "module": "commonjs",
+        // "moduleDetection": "force"
+        "isolatedModules": true,
         "target": "ES6",
         "outDir": "dist",
         "baseUrl": ".",
